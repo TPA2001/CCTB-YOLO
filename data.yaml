@@ -1,0 +1,8 @@
+train: /hdc/tpa/TB/TB-data/TB-dataset/train  # train images 
+val: /hdc/tpa/TB/TB-data/TB-dataset/val  # val images 
+test: /hdc/tpa/TB/TB-data/TB-dataset/test  # test images 
+
+nc: 1
+
+# class names
+names: ['TB']
