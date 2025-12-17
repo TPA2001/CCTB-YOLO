@@ -8,7 +8,7 @@ CCTB-YOLO is an advanced deep learning framework specifically designed for tumor
 
 ## 🏗️ Network Architecture
 
-![](cctb.png)
+![](image/CCTB-YOLO.png)
 
 ### Core Innovations
 
@@ -110,11 +110,11 @@ This project uses the YOLO format dataset:
 
 ### Test Set Results Comparison
 
-![](comparison_1041.jpg)
+![](image/comparison01.jpg)
 
 ### Multi-Scale Detection Effect
 
-![](comparison_1126.jpg)
+![](image/comparison02.jpg)
 
 ## 🤝 Contributing
 
