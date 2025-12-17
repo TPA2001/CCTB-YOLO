@@ -134,8 +134,7 @@ This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) f
 
 If you have any questions or suggestions, please contact us through the following channels:
 
-- Email: [your-email@example.com]
-- GitHub Issues: [Issues](https://github.com/TPA2001/CCTB-YOLO/issues)
+- Email: [caixunkundlq0@gmail.com]
 
 ## 🙏 Acknowledgements
 
