@@ -17,6 +17,16 @@ CCTB-YOLO is an advanced deep learning framework specifically designed for tumor
 - **Improved Backbone Network**: Optimized architecture based on YOLOv11 with stronger feature extraction capabilities
 - **Hierarchical Multi-Magnification Detection Head (HMMD-Head)**: Adapts to tumor budding detection at different magnification levels
 
+## 🖼️ Visualization
+
+### Results Comparison1
+
+![](image/comparison01.jpg)
+
+### Results Comparison2
+
+![](image/comparison02.jpg)
+
 ## 🚀 Quick Start
 
 ### Installation
@@ -106,15 +116,6 @@ This project uses the YOLO format dataset:
 - Annotation format: TXT (each image corresponds to one annotation file)
 - Annotation content: Each line represents one object in the format `class_id center_x center_y width height` (relative coordinates)
 
-## 🖼️ Visualization
-
-### Results Comparison1
-
-![](image/comparison01.jpg)
-
-### Results Comparison2
-
-![](image/comparison02.jpg)
 
 ## 🤝 Contributing
 
