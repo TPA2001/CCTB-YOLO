@@ -108,11 +108,11 @@ This project uses the YOLO format dataset:
 
 ## 🖼️ Visualization
 
-### Test Set Results Comparison
+### Results Comparison1
 
 ![](image/comparison01.jpg)
 
-### Multi-Scale Detection Effect
+### Results Comparison2
 
 ![](image/comparison02.jpg)
 
