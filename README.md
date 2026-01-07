@@ -22,10 +22,11 @@ CCTB-YOLO is an advanced deep learning framework specifically designed for tumor
 ### Results Comparison1
 
 ![](image/comparison01.jpg)
-
+As shown in comparison Figure 1, in high-density areas, the baseline model often produces low-confidence predictions. Our CDAA module dynamically adjusts the attention temperature through a Laplacian kernel, effectively preventing feature over-smoothing. Visualization results indicate that CCTB-YOLO can successfully decouple adjacent buds with high confidence (≥0.95).
 ### Results Comparison2
 
 ![](image/comparison02.jpg)
+As shown in comparison Figure 2, advanced models like YOLOv12n tend to produce false detections at the main tumor and stromal background. CCTB-YOLO enforces semantic consistency through C3FEB, effectively filtering out interference from non-budding textures while maintaining high accuracy.
 
 ## 🚀 Quick Start
 
